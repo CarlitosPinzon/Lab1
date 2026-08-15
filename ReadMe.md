@@ -76,24 +76,4 @@ Las corregí y dejé anotada la razón en el cuaderno correspondiente:
 También quedó anotada en `Practico_Bono_1.ipynb` una diferencia en la salida esperada del
 ejercicio `paper_doll`, donde el ejemplo del enunciado omite un grupo de caracteres.
 
-## Requisitos para ejecutar
 
-- Python 3.9 o superior
-- `jupyter` o Visual Studio Code con las extensiones de Python y Jupyter
-- `ipykernel`
-- `matplotlib` (únicamente para `09_Python_Clases.ipynb`)
-
-Instalación de dependencias:
-
-```bash
-pip install jupyter ipykernel matplotlib
-```
-
-Para ejecutar los cuadernos:
-
-```bash
-jupyter notebook
-```
-
-O abriendo el archivo `.ipynb` directamente en Visual Studio Code y seleccionando el kernel de
-Python del entorno donde se instalaron las dependencias.
